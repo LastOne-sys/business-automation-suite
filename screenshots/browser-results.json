@@ -1,0 +1,9 @@
+{
+  "results": [
+    "quote: desktop, mobile, authenticated workflow passed",
+    "invoice: desktop, mobile, authenticated workflow passed",
+    "support: desktop, mobile, authenticated workflow passed",
+    "booking: desktop, mobile, authenticated workflow passed"
+  ],
+  "errors": []
+}
