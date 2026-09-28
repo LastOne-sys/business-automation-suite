@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+dist/
+*.sqlite3
+FIRST-LOGIN.txt
+*.log
+.env
+.env.*
